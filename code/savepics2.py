@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+'''
+在网页上爬取图片
+...
 # Created by David Teng on 18-5-2
 import requests
 
